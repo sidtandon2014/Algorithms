@@ -1,2 +1,2 @@
-# Spark-Databricks-POCs
-All the spark POCs
+# Practice problems
+Geeks for Geeks problems
