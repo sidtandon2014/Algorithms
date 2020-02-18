@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80559155-5061-4a6f-b3e9-4c9ad50b62b5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/.vs/Searching/DesignTimeBuild/.dtbcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/.vs/Searching/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/.vs/Searching/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/.vs/Searching/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/BinarySearch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/ExponentialSearch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/FibonacciSearch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/InterpolationSearch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/JumpSearch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/LinearSearch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/SearchMethods.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/bin/Debug/netcoreapp2.2/SearchMethods.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/bin/Debug/netcoreapp2.2/SearchMethods.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/bin/Debug/netcoreapp2.2/SearchMethods.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/bin/Debug/netcoreapp2.2/SearchMethods.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/bin/Debug/netcoreapp2.2/SearchMethods.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/Debug/netcoreapp2.2/SearchMethods.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/Debug/netcoreapp2.2/SearchMethods.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/Debug/netcoreapp2.2/SearchMethods.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/Debug/netcoreapp2.2/SearchMethods.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/Debug/netcoreapp2.2/SearchMethods.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/Debug/netcoreapp2.2/SearchMethods.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/Debug/netcoreapp2.2/SearchMethods.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/Debug/netcoreapp2.2/SearchMethods.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/SearchMethods.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/SearchMethods.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/SearchMethods.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/SearchMethods.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/Searching.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuickSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/QuickSort.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SelectionSort.py" />
+        <option value="$PROJECT_DIR$/BubbleSort.py" />
+        <option value="$PROJECT_DIR$/HeapSort.py" />
+        <option value="$PROJECT_DIR$/MergeSort.py" />
+        <option value="$PROJECT_DIR$/QuickSort.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-35" />
+    <option name="y" value="120" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.QuickSort">
+    <configuration name="MergeSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sorting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MergeSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QuickSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\sitandon\AppData\Local\Continuum\anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QuickSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SelectionSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Sorting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SelectionSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.MergeSort" />
+      <item itemvalue="Python.QuickSort" />
+      <item itemvalue="Python.SelectionSort" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.QuickSort" />
+        <item itemvalue="Python.MergeSort" />
+        <item itemvalue="Python.SelectionSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80559155-5061-4a6f-b3e9-4c9ad50b62b5" name="Default Changelist" comment="" />
+      <created>1564379539049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564379539049</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44978783" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SelectionSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BubbleSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-start-column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MergeSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QuickSort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

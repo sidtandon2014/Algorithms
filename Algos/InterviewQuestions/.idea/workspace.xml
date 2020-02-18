@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1e316cc-926c-49c5-badd-8380c948b8b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Graph/CountPathsBetweenTwoVertices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graph/GraphSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Graph/TopologicalSorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/InterviewQuestions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/.vs/Searching/DesignTimeBuild/.dtbcache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/.vs/Searching/v16/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/.vs/Searching/v16/Server/sqlite3/db.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/.vs/Searching/v16/Server/sqlite3/storage.ide" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/BinarySearch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/ExponentialSearch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/FibonacciSearch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/InterpolationSearch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/JumpSearch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/LinearSearch.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/SearchMethods.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/bin/Debug/netcoreapp2.2/SearchMethods.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/bin/Debug/netcoreapp2.2/SearchMethods.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/bin/Debug/netcoreapp2.2/SearchMethods.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/bin/Debug/netcoreapp2.2/SearchMethods.runtimeconfig.dev.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/bin/Debug/netcoreapp2.2/SearchMethods.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/Debug/netcoreapp2.2/SearchMethods.AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/Debug/netcoreapp2.2/SearchMethods.AssemblyInfoInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/Debug/netcoreapp2.2/SearchMethods.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/Debug/netcoreapp2.2/SearchMethods.csproj.CoreCompileInputs.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/Debug/netcoreapp2.2/SearchMethods.csproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/Debug/netcoreapp2.2/SearchMethods.csprojAssemblyReference.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/Debug/netcoreapp2.2/SearchMethods.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/Debug/netcoreapp2.2/SearchMethods.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/SearchMethods.csproj.nuget.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/SearchMethods.csproj.nuget.dgspec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/SearchMethods.csproj.nuget.g.props" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/SearchMethods.csproj.nuget.g.targets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/SearchMethods/obj/project.assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Searching/SearchingInC#/Searching.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sorting/QuickSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sorting/QuickSort.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CommonCourses.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="775">
+              <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test..py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GenerateFiles.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CommonCourseBetweenStudents.py" />
+        <option value="$PROJECT_DIR$/CommonCourses.py" />
+        <option value="$PROJECT_DIR$/test..py" />
+        <option value="$PROJECT_DIR$/GenerateFiles.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-35" />
+    <option name="y" value="120" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InterviewQuestions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InterviewQuestions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.GenerateFiles">
+    <configuration name="CommonCourses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InterviewQuestions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CommonCourses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GenerateFiles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InterviewQuestions" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GenerateFiles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.GenerateFiles" />
+        <item itemvalue="Python.CommonCourses" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1e316cc-926c-49c5-badd-8380c948b8b4" name="Default Changelist" comment="" />
+      <created>1573817993066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573817993066</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11426684" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993395" weight="0.5785007" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32956153" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5006605" side_tool="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32956153" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CommonCourseBetweenStudents.py" />
+    <entry file="file://$PROJECT_DIR$/CommonCourses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="32" column="34" selection-start-line="32" selection-start-column="34" selection-end-line="32" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test..py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GenerateFiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
