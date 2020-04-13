@@ -1,0 +1,6 @@
+D:\Sid\AG Practice\IceCreamParlour\IceCreamParlour\bin\Debug\IceCreamParlour.exe.config
+D:\Sid\AG Practice\IceCreamParlour\IceCreamParlour\bin\Debug\IceCreamParlour.exe
+D:\Sid\AG Practice\IceCreamParlour\IceCreamParlour\bin\Debug\IceCreamParlour.pdb
+D:\Sid\AG Practice\IceCreamParlour\IceCreamParlour\obj\Debug\IceCreamParlour.csprojResolveAssemblyReference.cache
+D:\Sid\AG Practice\IceCreamParlour\IceCreamParlour\obj\Debug\IceCreamParlour.exe
+D:\Sid\AG Practice\IceCreamParlour\IceCreamParlour\obj\Debug\IceCreamParlour.pdb

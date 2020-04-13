@@ -1,0 +1,6 @@
+D:\Sid\AG Practice\MaximumIndexProduct\MaximumIndexProduct\bin\Debug\MaximumIndexProduct.exe.config
+D:\Sid\AG Practice\MaximumIndexProduct\MaximumIndexProduct\bin\Debug\MaximumIndexProduct.exe
+D:\Sid\AG Practice\MaximumIndexProduct\MaximumIndexProduct\bin\Debug\MaximumIndexProduct.pdb
+D:\Sid\AG Practice\MaximumIndexProduct\MaximumIndexProduct\obj\Debug\MaximumIndexProduct.csprojResolveAssemblyReference.cache
+D:\Sid\AG Practice\MaximumIndexProduct\MaximumIndexProduct\obj\Debug\MaximumIndexProduct.exe
+D:\Sid\AG Practice\MaximumIndexProduct\MaximumIndexProduct\obj\Debug\MaximumIndexProduct.pdb

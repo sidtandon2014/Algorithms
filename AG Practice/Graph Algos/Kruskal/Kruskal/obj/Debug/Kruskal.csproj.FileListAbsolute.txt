@@ -1,0 +1,6 @@
+D:\Sid\AG Practice\Graph Algos\Kruskal\Kruskal\bin\Debug\Kruskal.exe.config
+D:\Sid\AG Practice\Graph Algos\Kruskal\Kruskal\bin\Debug\Kruskal.exe
+D:\Sid\AG Practice\Graph Algos\Kruskal\Kruskal\bin\Debug\Kruskal.pdb
+D:\Sid\AG Practice\Graph Algos\Kruskal\Kruskal\obj\Debug\Kruskal.csprojResolveAssemblyReference.cache
+D:\Sid\AG Practice\Graph Algos\Kruskal\Kruskal\obj\Debug\Kruskal.exe
+D:\Sid\AG Practice\Graph Algos\Kruskal\Kruskal\obj\Debug\Kruskal.pdb

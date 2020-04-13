@@ -1,0 +1,6 @@
+D:\Sid\AG Practice\Sherlock and Array\Sherlock and Array\bin\Debug\Sherlock and Array.exe.config
+D:\Sid\AG Practice\Sherlock and Array\Sherlock and Array\obj\Debug\Sherlock and Array.csprojResolveAssemblyReference.cache
+D:\Sid\AG Practice\Sherlock and Array\Sherlock and Array\bin\Debug\Sherlock and Array.exe
+D:\Sid\AG Practice\Sherlock and Array\Sherlock and Array\bin\Debug\Sherlock and Array.pdb
+D:\Sid\AG Practice\Sherlock and Array\Sherlock and Array\obj\Debug\Sherlock and Array.exe
+D:\Sid\AG Practice\Sherlock and Array\Sherlock and Array\obj\Debug\Sherlock and Array.pdb

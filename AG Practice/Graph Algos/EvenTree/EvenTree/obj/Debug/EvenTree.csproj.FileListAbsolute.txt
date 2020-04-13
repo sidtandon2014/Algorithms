@@ -1,0 +1,12 @@
+D:\Sid\AG Practice\EvenTree\EvenTree\bin\Debug\EvenTree.exe.config
+D:\Sid\AG Practice\EvenTree\EvenTree\bin\Debug\EvenTree.exe
+D:\Sid\AG Practice\EvenTree\EvenTree\bin\Debug\EvenTree.pdb
+D:\Sid\AG Practice\EvenTree\EvenTree\obj\Debug\EvenTree.csprojResolveAssemblyReference.cache
+D:\Sid\AG Practice\EvenTree\EvenTree\obj\Debug\EvenTree.exe
+D:\Sid\AG Practice\EvenTree\EvenTree\obj\Debug\EvenTree.pdb
+D:\Sid\AG Practice\Graph Algos\EvenTree\EvenTree\bin\Debug\EvenTree.exe.config
+D:\Sid\AG Practice\Graph Algos\EvenTree\EvenTree\obj\Debug\EvenTree.exe
+D:\Sid\AG Practice\Graph Algos\EvenTree\EvenTree\obj\Debug\EvenTree.pdb
+D:\Sid\AG Practice\Graph Algos\EvenTree\EvenTree\bin\Debug\EvenTree.exe
+D:\Sid\AG Practice\Graph Algos\EvenTree\EvenTree\bin\Debug\EvenTree.pdb
+D:\Sid\AG Practice\Graph Algos\EvenTree\EvenTree\obj\Debug\EvenTree.csprojResolveAssemblyReference.cache

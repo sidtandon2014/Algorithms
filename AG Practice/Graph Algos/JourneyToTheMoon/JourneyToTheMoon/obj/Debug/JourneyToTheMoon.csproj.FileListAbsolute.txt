@@ -1,0 +1,6 @@
+D:\Sid\AG Practice\JourneyToTheMoon\JourneyToTheMoon\bin\Debug\JourneyToTheMoon.exe.config
+D:\Sid\AG Practice\JourneyToTheMoon\JourneyToTheMoon\obj\Debug\JourneyToTheMoon.csprojResolveAssemblyReference.cache
+D:\Sid\AG Practice\JourneyToTheMoon\JourneyToTheMoon\bin\Debug\JourneyToTheMoon.exe
+D:\Sid\AG Practice\JourneyToTheMoon\JourneyToTheMoon\bin\Debug\JourneyToTheMoon.pdb
+D:\Sid\AG Practice\JourneyToTheMoon\JourneyToTheMoon\obj\Debug\JourneyToTheMoon.exe
+D:\Sid\AG Practice\JourneyToTheMoon\JourneyToTheMoon\obj\Debug\JourneyToTheMoon.pdb
